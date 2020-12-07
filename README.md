@@ -1,4 +1,4 @@
-C0BR4 SelfBot by Lium#1000
+Nezuko Selfbot SelfBot by Lium#1000
 
 How to config this Selfbot?
 
